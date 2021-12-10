@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohamedBehhar
-- 👀 I’m interested in web developement
+- 👀 1337 student, interested in web developement
 - 🌱 I’m currently learning JS
 - 📫 How to reach me behharmohamed18@gmail.com
 
