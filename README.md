@@ -5,6 +5,7 @@
 - :muscle: I am open to new opportunities, and I'll be happy to collaborate with you.
 - 📫 How to reach me behharmohamed18@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBehhar&theme=dark&show_icons=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBehhar)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBehhar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
