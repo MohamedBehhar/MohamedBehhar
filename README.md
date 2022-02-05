@@ -6,6 +6,7 @@
 - 📫 How to reach me behharmohamed18@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBehhar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBehhar&exclude_repo=github-readme-stats,anuraghazra.github.io)]
 
 <!---
 MohamedBehhar/MohamedBehhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
