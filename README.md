@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mohamed from Morocco
 - 👀 1337 student, interested in web developement
-- 🌱 I’m currently trying to master JavaScript and learn React.
-- :white_check_mark: My aim is to became a MERN stack developper by the end of 2020.
 - :muscle: I am open to new opportunities, and I'll be happy to collaborate with you.
 - 📫 How to reach me behharmohamed18@gmail.com
 
